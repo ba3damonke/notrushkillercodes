@@ -1,5 +1,3 @@
 NOTINROOM
 
-blacklist ids: haiusfdhjauisdhfnjciuasdhuisdafsdfdasdfa
-
-asdfasdfa
+blacklist ids: 
